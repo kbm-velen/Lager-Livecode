@@ -2,9 +2,9 @@ Menge;Bezeichnung;Typ;Bemerkungen;Bild;Link;X;Y
 0;"Lotdraht Fluitin""S"" 1532  0.75mm";Lotdraht;(Schublade);;https://www.reichelt.de/index.html?ACTION=446&LA=446&nbc=1&q=;;
 6;1-fach OP  LF356;LF356;Feldeffekteingangsstufen;;;10;10
 12;1-fach OP  TAA 765A;TAA 765A;nicht mehr lieferbar;;;20;21
-6;1-fach OP  TLC 271;TLC 271;fÅr unsymetrische Spannungsversorgung;https://cdn-reichelt.de/bilder/web/artikel_ws/A200/DIP-8.jpg;https://www.reichelt.de/operationsverstaerker-1-fach-dip-8-tlc-271-dip-p21598.html?search=TLC+271;;
-5;1-fach OP  UA741;UA741;"universeller ;;;;
-6;2-fach OP  1458P;1458P;"PrÅfungsplatine Arbeitsprobe ;;;;
+6;1-fach OP  TLC 271;TLC 271;fÅr unsymetrische Spannungsversorgung;https://cdn-reichelt.de/bilder/web/artikel_ws/A200/DIP-8.jpg;https://www.reichelt.de/operationsverstaerker-1-fach-dip-8-tlc-271-dip-p21598.html?search=TLC+271;123;456
+1;2-fach OP  1458P;1458P;"PrÅfungsplatine Arbeitsprobe ;;;123;456 
+
 6;2-fach OP  TL 082 CP;TL 082 CP;Feldeffekteingangsstufen;;;;
 1;2-fach OP  TLC 272;TLC 272;;;https://www.reichelt.de/operationsverstaerker-2-fach-3-6-v-s-1-7-mhz-dip-8-tlc-272-dip-p21599.html?search=TLC+272;;
 9;2-fach OP  UA747;UA747;;;;;

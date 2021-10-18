@@ -1,7 +1,6 @@
 ein Livecode Programm soll über RS232 einen Arduin x/y-Koordinaten senden.
 Der Arduino steuert dann einen Leuchtpunkt auf die entsprechende Schublade mit dem Bauteil im Lagerschrank.
 
--Schrittmotoren bestellen
 - Arduino-Programm
 - Livecode-Programm
 
@@ -14,6 +13,9 @@ x + y von Arduino übernehmen
 
 erledigt:
 Zeile löschen
+
+
+-Schrittmotoren bestellen
 
 Tabelle: Bauteilbezeichnung, Typ, x, y, Bild, Link zu reichelt
 Livecode muss Tabelle erstellen, ändern, anzeigen
