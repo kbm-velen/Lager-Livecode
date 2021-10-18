@@ -6,14 +6,14 @@ Der Arduino steuert dann einen Leuchtpunkt auf die entsprechende Schublade mit d
 
 
 todo:
-Zeile ändern, ausgenommen x/y?
-x + y von Arduino übernehmen
+
 
 
 
 erledigt:
 Zeile löschen
-
+Zeile ändern, ausgenommen x/y?
+x + y von Arduino übernehmen
 
 -Schrittmotoren bestellen
 
