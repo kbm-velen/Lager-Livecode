@@ -3,9 +3,41 @@ Der Arduino steuert dann einen Leuchtpunkt auf die entsprechende Schublade mit d
 
 -Schrittmotoren bestellen
 - Arduino-Programm
-
 - Livecode-Programm
+
+
+todo:
+Zeile ändern, ausgenommen x/y?
+x + y von Arduino übernehmen
+
+
+
+erledigt:
+Zeile löschen
+
 Tabelle: Bauteilbezeichnung, Typ, x, y, Bild, Link zu reichelt
 Livecode muss Tabelle erstellen, ändern, anzeigen
 Livecode muss x/y senden
+
+
+
+Tabellenüberschriften an Programm anpassen
+
+Spalten im Programm an Liste anpassen
+
+
+Button einbauen, der einen Link erstellt, um das Bauteil bei Reichelt zu suchen
+Teil1: https://www.reichelt.de/index.html?ACTION=446&LA=446&nbc=1&q=
+Teil2: Type
+Link an Browser weiterleiten
+
+Button einbauen, der einen Link erstellt, um das Datenblatt zu suchen
+Teil1: https://www.bing.com/search?q=datenblatt+
+Teil2: Type
+Link an Browser weiterleiten
+
+Livecode-Befehl:	launch url "https://www.reichelt.de/index.html?ACTION=446&LA=446&nbc=1&q=" & "1n4007"
+Livecode-Befehl:	launch url "https://www.bing.com/search?q=datenblatt+" & "1n4007"
+
+Spalte Link bleibt erhalten, so das man Links zu anderen Webseiten reinschreiben kann
 
