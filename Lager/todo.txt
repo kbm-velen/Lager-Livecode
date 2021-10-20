@@ -6,7 +6,8 @@ Der Arduino steuert dann einen Leuchtpunkt auf die entsprechende Schublade mit d
 
 
 todo:
-
+Editierfelder bei Größenänderung
+Bauteile hinzufügen
 
 
 
